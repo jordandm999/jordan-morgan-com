@@ -1,0 +1,35 @@
+{
+  "featured_projects": [
+    {
+      "name": "Jordan's AI Agent",
+      "description": "Demonstration of MCP server capabilities through an interactive chatbot built to answer questions about my career.",
+      "url": "https://jordan-morgan.com/chatbot",
+      "type": "AI Development"
+    },
+    {
+      "name": "MCP Server Framework at Redo",
+      "description": "Designed and built the foundational MCP server framework and infrastructure at Redo, enabling teams to build and deploy MCP servers for both internal and external use.",
+      "type": "AI Development"
+    },
+    {
+      "name": "RAG Pipelines and Vector Databases",
+      "description": "Built and maintained RAG pipelines and vector databases for internal use at Redo, including automated data scraping and training resources to support ongoing AI efforts.",
+      "type": "AI Development"
+    },
+    {
+      "name": "AI-Based Control Assessments",
+      "description": "Built automated AI-based backend processes to gather and enrich key data used in control automation and assessments, reducing manual effort in SOC compliance workflows.",
+      "type": "GRC Automation"
+    },
+    {
+      "name": "SOC Compliance Automation at Shopify",
+      "description": "Developed AI solutions to automate control operation and evaluation, and built automation to support the testing and operation of Shopify's SOC program.",
+      "type": "GRC Automation"
+    },
+    {
+      "name": "Internal Control Testing Program at Zion's Bancorporation",
+      "description": "Led a team of testers in conducting internal control testing for SOX and GLBA compliance. Automated GRC tasks including testing, evidence gathering, and control operation over a 6+ year tenure.",
+      "type": "GRC Automation"
+    }
+  ]
+}

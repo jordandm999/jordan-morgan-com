@@ -1,0 +1,36 @@
+{
+  "certifications": [
+    {
+      "name": "Certified Information Systems Security Professional (CISSP)",
+      "status": "Active",
+      "issued": "May 2025",
+      "badge_url": "https://www.credly.com/badges/d707d7e2-b845-4e5e-840e-b4547690a688/public_url"
+    },
+    {
+      "name": "Certified in Risk and Information Systems Control (CRISC)",
+      "status": "Active",
+      "issued": "December 2023",
+      "badge_url": "https://www.credly.com/badges/7887a789-e91d-49d6-844b-a608d3175929/public_url"
+    },
+    {
+      "name": "Certified Information Systems Auditor (CISA)",
+      "status": "Active",
+      "issued": "August 2023",
+      "badge_url": "https://www.credly.com/badges/89d17d36-2fce-4d08-a6c1-4a844552b23b/public_url"
+    },
+    {
+      "name": "CompTIA Security+ ce Certification",
+      "status": "Active",
+      "issued": "August 2022",
+      "badge_url": "https://www.credly.com/badges/6c35616b-96bc-4687-b324-394e1d9d02f3/public_url"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field": "Information Systems",
+      "school": "Marriott School of Business, Brigham Young University",
+      "graduationDate": "December 2018"
+    }
+  ]
+}

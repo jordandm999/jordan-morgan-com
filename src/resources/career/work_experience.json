@@ -1,0 +1,60 @@
+{
+  "positions": [
+    {
+      "company": "Redo",
+      "title": "Principal AI Operations Engineer",
+      "duration": "August 2025 – Present",
+      "current": true,
+      "location": "Remote",
+      "responsibilities": [
+        "Design and implement security controls and audits to maintain SOC 1 and 2 certifications",
+        "Design and implement key security controls to ensure compliance with GDPR",
+        "Develop key standards and policies for internal AI usage",
+        "Lead collaboration with other teams to develop cross-discipline policies to safely use AI tools",
+        "Build automated AI-based backend processes to gather and enrich key data used in control automation and assessments",
+        "Build and deploy MCP servers for internal and external use",
+        "Build and maintain MCP server framework and infrastructure for future development",
+        "Build and maintain RAG pipelines and vector databases for internal use",
+        "Build automated data scraping and training resources to support ongoing AI efforts"
+      ]
+    },
+    {
+      "company": "Shopify",
+      "title": "Senior Security Engineer",
+      "duration": "October 2024 – August 2025",
+      "current": false,
+      "location": "Remote",
+      "responsibilities": [
+        "Built automation to support the testing and operation of the SOC program",
+        "Managed annual SOC audit and created reports",
+        "Reviewed and revised existing controls",
+        "Developed additions to SOC framework based on business scope expansion",
+        "Developed AI solutions to control operation and evaluation",
+        "Reviewed test analyst work prior to submission",
+        "Conducted assessments of potential tools for use in the SOC program",
+        "Worked with SOX team to ensure ongoing compliance and find opportunities for synergy",
+        "Created control testing policies, standards, and procedures"
+      ]
+    },
+    {
+      "company": "Zion's Bancorporation",
+      "title": "Internal Control Testing Lead",
+      "duration": "May 2018 – October 2024",
+      "current": false,
+      "location": "Remote",
+      "responsibilities": [
+        "Trained and led the testing team in conducting internal control testing efforts",
+        "Consulted in the development of IT General Controls based on risk assessments",
+        "Automated GRC tasks including testing, evidence gathering, and control operation",
+        "Conducted analysis of SOX and GLBA compliance gaps",
+        "Reviewed existing controls for alignment to NIST 800-53 practices",
+        "Developed testing methodology based on best practices from NIST",
+        "Owned and conducted risk-based audits of control environments to determine effectiveness",
+        "Presented audit findings to applicable stakeholders for agreement and conclusion",
+        "Assessed and supported the closing of material findings from regulatory agents",
+        "Worked with business leaders to determine mission-supporting remediation plans",
+        "Created control testing policies, standards, and procedures"
+      ]
+    }
+  ]
+}
